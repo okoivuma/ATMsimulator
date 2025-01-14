@@ -2,7 +2,6 @@
 ***
 *** Oskari Koivumaki
 *** Ohjelmointi 1
-*** Kotitehtava
 ***
 */
 
